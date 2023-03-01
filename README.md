@@ -10,4 +10,4 @@ Your first task is to merge the two files above, so that you have a complete dat
 
 Once the merging is complete, you should move to the second task, which is the classification task. The features in the merged file should be used to train classifiers to predict whether the sensor is on or off. It is up to you to decide which classifiers you will select. Please justify your option in the comments section of your code. Please feel free to perform whatever analysis you like to identify the most appropriate classifier for this task.
 
-The above tasks should take place in python, preferably in a python notebook. Once done, please email me the .ipynb or .py file. 
+The above tasks should take place in python, preferably in a python notebook.
